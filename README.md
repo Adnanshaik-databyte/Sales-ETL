@@ -90,4 +90,4 @@ Implement CI/CD pipelines for automated data workflows
 🙋‍♂️ Author
 Shaik Adnan
 Data Analyst | Databricks Enthusiast
-🔗 LinkedIn-www.linkedin.com/in/mohammed-adnan-shaik 
+🔗LinkedIn : (Adnan Shaik) www.linkedin.com/in/mohammed-adnan-shaik 
